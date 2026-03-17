@@ -1,0 +1,11 @@
+PHP Fatal error:  Uncaught Error: Call to undefined function simplexml_load_string() in /home/grupo26/web/www/html/final/db/llenarTablas/procesadorDeXML.php:16
+Stack trace:
+#0 /home/grupo26/web/www/html/final/db/actuDB.php(14): prepararXML()
+#1 {main}
+  thrown in /home/grupo26/web/www/html/final/db/llenarTablas/procesadorDeXML.php on line 16
+
+Fatal error: Uncaught Error: Call to undefined function simplexml_load_string() in /home/grupo26/web/www/html/final/db/llenarTablas/procesadorDeXML.php:16
+Stack trace:
+#0 /home/grupo26/web/www/html/final/db/actuDB.php(14): prepararXML()
+#1 {main}
+  thrown in /home/grupo26/web/www/html/final/db/llenarTablas/procesadorDeXML.php on line 16
